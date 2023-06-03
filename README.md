@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baibhav Paudel
 - 👀 I’m interested in web-development.
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning JavaScript and Python
 
 <!---
 incri/incri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
